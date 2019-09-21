@@ -1,5 +1,6 @@
 # UFO Sightings Project
 ![UFO]
+
 In this project I am building a website using Javascript and HTML to display information on UFO sightings. Javascript is use as the main script to run the analysis.
 First I provide code to create an Automatic Table using code to append data to a table and Date Search filter.
 Four files are created:
