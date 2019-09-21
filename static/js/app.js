@@ -33,5 +33,5 @@ function handleClick(){
 }
 
 d3.selectAll("#filter-btn").on("click", handleClick);
-// Build Table with data.js 
-//buildTable(tableData);
+// Build Table with data.js; NOTE: if viewer prefers an empty table at start comment "//buildTable(tableData)" code
+buildTable(tableData);
