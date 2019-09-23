@@ -10,10 +10,11 @@ Four files are created:
   3. An app.js javascript file is used to create the tables and for filtering the data. Columns for tabe include:
     a. date/time, city, state, country, shape, and comment at the very least.
 # Table Produced with Applied Search Date Field
-![table]images/ufo_table_png
+![table]images/ufo_table_page.png
 
 # Alternate Page: No Table Produced until Applied Search Date Field is Populated
-An alternate coding for a blank page with no table produced until the date search field is populated can be done by commenting the Build Table code out (see below).
+![table]images/ufo_notable_page.png
+An alternate coding for a blank page with no table produced until the date search field is populated can be done by commenting the "buildTable(tableData);" code out (see below app.js line 37 of code).
 
-![table]images/ufo_notable_png
+![table]images/app_notable_code.png
 
