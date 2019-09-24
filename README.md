@@ -13,7 +13,7 @@ Four files are created:
 ![table](images/ufo_table_page.png)
 
 # Alternate Page: No Table Produced until Applied Search Date Field is Populated
-(![table]images/ufo_notable_page.png)
+![table](images/ufo_notable_page.png)
 
 An alternate coding for a blank page with no table produced until the date search field is populated can be done by commenting the "buildTable(tableData);" code out (see below app.js line 37 of code).
 
